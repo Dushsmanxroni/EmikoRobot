@@ -1,5 +1,5 @@
 {
-      "name": "Emiko Robot",
+      "name": "JARVIS",
       "description": "A Powerful  Telegram group management bot with anime theme.",
       "keywords": [
          "telegram",
@@ -9,7 +9,7 @@
          "naorobot"
       ],
     
-   "logo":    "https://telegra.ph/file/35e56ba7eace7332356ad.jpg",  
+   "logo":    "https://te.legra.ph/file/d2b22a1ed9059bd9c00e7.jpg",  
    "repository": "https://github.com/kennedy-ex/https://github.com/aksbot/EmikoRobot",
    "addons": [
           {
